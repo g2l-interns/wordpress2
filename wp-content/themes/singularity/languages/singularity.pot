@@ -1,0 +1,685 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-01-08 08:24+0000\n"
+"PO-Revision-Date: 2017-08-03 17:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: info@catapultthemes.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:83
+msgid "Leave a comment"
+msgstr ""
+
+#: footer.php:75
+msgid "Close"
+msgstr ""
+
+#: functions.php:318
+msgid ""
+"<p>Notice: The \"customizer-library\" sub-module is not loaded.</p><p>Please "
+"add it to the \"inc\" directory: <a href=\"https://github.com/devinsays/"
+"customizer-library\">https://github.com/devinsays/customizer-library</a>.</"
+"p><p>The demo, including submodules, can also be installed via Git: \"git "
+"clone --recursive git@github.com:devinsays/customizer-library-demo\".</p>"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/customizer-options.php:17
+msgid "Blog Posts"
+msgstr ""
+
+#: inc/customizer-options.php:18
+msgid "Featured Pages"
+msgstr ""
+
+#: inc/customizer-options.php:19
+msgid "Homepage Widget Area 1"
+msgstr ""
+
+#: inc/customizer-options.php:20
+msgid "Homepage Widget Area 2"
+msgstr ""
+
+#: inc/customizer-options.php:21
+msgid "Standard Page Content"
+msgstr ""
+
+#: inc/customizer-options.php:24
+msgid "Downloads"
+msgstr ""
+
+#: inc/customizer-options.php:27
+msgid "Topics"
+msgstr ""
+
+#: inc/customizer-options.php:47
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer-options.php:61
+msgid "Hide Tagline"
+msgstr ""
+
+#: inc/customizer-options.php:73
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer-options.php:81 inc/customizer-options.php:739
+msgid "Global"
+msgstr ""
+
+#: inc/customizer-options.php:88
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer-options.php:92
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer-options.php:93
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer-options.php:100
+msgid "Max Content Width"
+msgstr ""
+
+#: inc/customizer-options.php:111 inc/customizer-options.php:794
+msgid "Header"
+msgstr ""
+
+#: inc/customizer-options.php:118
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer-options.php:122
+msgid "Centered"
+msgstr ""
+
+#: inc/customizer-options.php:123
+msgid "Standard"
+msgstr ""
+
+#: inc/customizer-options.php:130
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/customizer-options.php:138
+msgid "Fixed Header"
+msgstr ""
+
+#: inc/customizer-options.php:146
+msgid "Vertically Center Elements"
+msgstr ""
+
+#: inc/customizer-options.php:156
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer-options.php:163
+msgid "Archive Content"
+msgstr ""
+
+#: inc/customizer-options.php:167
+msgid "Content"
+msgstr ""
+
+#: inc/customizer-options.php:168
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer-options.php:175
+msgid "Center Thumbnails"
+msgstr ""
+
+#: inc/customizer-options.php:183
+msgid "Thumbnail Height"
+msgstr ""
+
+#: inc/customizer-options.php:192
+msgid "Use Placeholder for Missing Thumbnails"
+msgstr ""
+
+#: inc/customizer-options.php:200
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer-options.php:208 inc/customizer-options.php:468
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer-options.php:212 inc/customizer-options.php:239
+#: inc/customizer-options.php:457 inc/customizer-options.php:472
+#: inc/customizer-options.php:1019 inc/customizer-options.php:1043
+msgid "Narrow"
+msgstr ""
+
+#: inc/customizer-options.php:213 inc/customizer-options.php:240
+#: inc/customizer-options.php:458 inc/customizer-options.php:473
+#: inc/customizer-options.php:1020 inc/customizer-options.php:1044
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer-options.php:214 inc/customizer-options.php:241
+#: inc/customizer-options.php:459 inc/customizer-options.php:474
+#: inc/customizer-options.php:1021 inc/customizer-options.php:1045
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/customizer-options.php:215 inc/customizer-options.php:242
+#: inc/customizer-options.php:460 inc/customizer-options.php:475
+#: inc/customizer-options.php:1022 inc/customizer-options.php:1046
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/customizer-options.php:222
+msgid "Posts Per Row on Post Archives"
+msgstr ""
+
+#: inc/customizer-options.php:235
+msgid "Post Layout"
+msgstr ""
+
+#: inc/customizer-options.php:251
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer-options.php:258
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/customizer-options.php:270
+msgid "Sidebar Format"
+msgstr ""
+
+#: inc/customizer-options.php:274
+msgid "Panel"
+msgstr ""
+
+#: inc/customizer-options.php:275
+msgid "Simple"
+msgstr ""
+
+#: inc/customizer-options.php:276
+msgid "Titled"
+msgstr ""
+
+#: inc/customizer-options.php:285
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer-options.php:292
+msgid "Pin Featured Image to Header on Pages"
+msgstr ""
+
+#: inc/customizer-options.php:300
+msgid "Pin Featured Image to Header on Posts"
+msgstr ""
+
+#: inc/customizer-options.php:308
+msgid "Alternative Logo for Pinned Images"
+msgstr ""
+
+#: inc/customizer-options.php:317
+msgid "Pin Title over Image"
+msgstr ""
+
+#: inc/customizer-options.php:326
+msgid "Pin Excerpt with Title"
+msgstr ""
+
+#: inc/customizer-options.php:335
+msgid "Pinned Featured Image Height"
+msgstr ""
+
+#: inc/customizer-options.php:339
+msgid "Third"
+msgstr ""
+
+#: inc/customizer-options.php:340
+msgid "Half"
+msgstr ""
+
+#: inc/customizer-options.php:341
+msgid "Full"
+msgstr ""
+
+#: inc/customizer-options.php:349
+msgid "Menu Style"
+msgstr ""
+
+#: inc/customizer-options.php:353
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer-options.php:354
+msgid "Light"
+msgstr ""
+
+#: inc/customizer-options.php:364 inc/customizer-options.php:843
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer-options.php:371 inc/customizer-options.php:881
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer-options.php:379
+msgid "Force Footer Full Width"
+msgstr ""
+
+#: inc/customizer-options.php:388
+msgid "Enable Area above Columns"
+msgstr ""
+
+#: inc/customizer-options.php:396
+msgid "Footer Columns"
+msgstr ""
+
+#: inc/customizer-options.php:413
+msgid "Footer Reveal"
+msgstr ""
+
+#: inc/customizer-options.php:421
+msgid "Show Credits"
+msgstr ""
+
+#: inc/customizer-options.php:429
+msgid "Credits Text"
+msgstr ""
+
+#: inc/customizer-options.php:432
+msgid "Singularity Theme"
+msgstr ""
+
+#: inc/customizer-options.php:437
+msgid "Credits URL"
+msgstr ""
+
+#: inc/customizer-options.php:447
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: inc/customizer-options.php:453
+msgid "Single Layout"
+msgstr ""
+
+#: inc/customizer-options.php:483
+msgid "Downloads Per Row on Archives"
+msgstr ""
+
+#: inc/customizer-options.php:499
+msgid "Homepage"
+msgstr ""
+
+#: inc/customizer-options.php:506
+msgid "Hide Page Title"
+msgstr ""
+
+#: inc/customizer-options.php:514
+msgid "Section 1 Title"
+msgstr ""
+
+#: inc/customizer-options.php:522
+msgid "Section 1 Content"
+msgstr ""
+
+#: inc/customizer-options.php:531
+msgid "Section 2 Title"
+msgstr ""
+
+#: inc/customizer-options.php:539
+msgid "Section 2 Content"
+msgstr ""
+
+#: inc/customizer-options.php:548
+msgid "Section 3 Title"
+msgstr ""
+
+#: inc/customizer-options.php:556
+msgid "Section 3 Content"
+msgstr ""
+
+#: inc/customizer-options.php:565
+msgid "Section 4 Title"
+msgstr ""
+
+#: inc/customizer-options.php:573
+msgid "Section 4 Content"
+msgstr ""
+
+#: inc/customizer-options.php:582
+msgid "Section 5 Title"
+msgstr ""
+
+#: inc/customizer-options.php:590
+msgid "Section 5 Content"
+msgstr ""
+
+#: inc/customizer-options.php:608
+msgid "Number of Blog Posts"
+msgstr ""
+
+#: inc/customizer-options.php:632
+msgid "Number of Downloads"
+msgstr ""
+
+#: inc/customizer-options.php:656
+msgid "Featured Page 1"
+msgstr ""
+
+#: inc/customizer-options.php:665
+msgid "Featured Page Extract 1"
+msgstr ""
+
+#: inc/customizer-options.php:674
+msgid "Featured Page 2"
+msgstr ""
+
+#: inc/customizer-options.php:683
+msgid "Featured Page Extract 2"
+msgstr ""
+
+#: inc/customizer-options.php:692
+msgid "Featured Page 3"
+msgstr ""
+
+#: inc/customizer-options.php:701
+msgid "Featured Page Extract 3"
+msgstr ""
+
+#: inc/customizer-options.php:710
+msgid "Featured Page 4"
+msgstr ""
+
+#: inc/customizer-options.php:719
+msgid "Featured Page Extract 4"
+msgstr ""
+
+#: inc/customizer-options.php:731
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer-options.php:746
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer-options.php:760
+msgid "Body Color"
+msgstr ""
+
+#: inc/customizer-options.php:768
+msgid "Content Background Color"
+msgstr ""
+
+#: inc/customizer-options.php:776
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer-options.php:784
+msgid "Light Grey"
+msgstr ""
+
+#: inc/customizer-options.php:801
+msgid "Top Bar Background"
+msgstr ""
+
+#: inc/customizer-options.php:809
+msgid "Top Bar Color"
+msgstr ""
+
+#: inc/customizer-options.php:817
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer-options.php:825
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer-options.php:833
+msgid "Header Link Color"
+msgstr ""
+
+#: inc/customizer-options.php:850
+msgid "Full Width Area Background"
+msgstr ""
+
+#: inc/customizer-options.php:858
+msgid "Full Width Background Opacity"
+msgstr ""
+
+#: inc/customizer-options.php:873
+msgid "Full Width Area Color"
+msgstr ""
+
+#: inc/customizer-options.php:889
+msgid "Footer Background Opacity"
+msgstr ""
+
+#: inc/customizer-options.php:903
+msgid "Footer Color"
+msgstr ""
+
+#: inc/customizer-options.php:911
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/customizer-options.php:923
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer-options.php:929
+msgid "Primary Font"
+msgstr ""
+
+#: inc/customizer-options.php:938
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/customizer-options.php:947
+msgid "Base Font Size (%)"
+msgstr ""
+
+#: inc/customizer-options.php:961
+msgid "Use Typekit Fonts"
+msgstr ""
+
+#: inc/customizer-options.php:969
+msgid "Kit Reference"
+msgstr ""
+
+#: inc/customizer-options.php:977
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer-options.php:985
+msgid "Body Weight"
+msgstr ""
+
+#: inc/customizer-options.php:994
+msgid "Bold Weight"
+msgstr ""
+
+#: inc/customizer-options.php:1008
+msgid "Single"
+msgstr ""
+
+#: inc/customizer-options.php:1015
+msgid "Topic Template"
+msgstr ""
+
+#: inc/customizer-options.php:1032
+msgid "Archive"
+msgstr ""
+
+#: inc/customizer-options.php:1039
+msgid "Topics Archive Template"
+msgstr ""
+
+#: inc/functions-discussion-board.php:55 inc/functions-discussion-board.php:75
+#: inc/functions-discussion-board.php:106
+msgid "Edit"
+msgstr ""
+
+#: inc/functions-discussion-board.php:90
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions-discussion-board.php:112 inc/functions-layout.php:457
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions-discussion-board.php:332
+msgid "See all topics"
+msgstr ""
+
+#: inc/functions-discussion-board.php:346
+msgid "Add new topic"
+msgstr ""
+
+#: inc/functions-discussion-board.php:352
+msgid ""
+"Site Admin: please set the \"New topic form page\" field in Settings > "
+"Discussion Board > General for the new_topic_button shortcode to work. This "
+"message will not be displayed to non-admins."
+msgstr ""
+
+#: inc/functions-layout.php:469
+msgid "Edit this comment"
+msgstr ""
+
+#: inc/template-tags.php:91
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: taxonomy-board.php:82
+msgid "Older topics"
+msgstr ""
+
+#: taxonomy-board.php:83
+msgid "Newer topics"
+msgstr ""
+
+#: template-parts/content-discussion-topic.php:12
+msgid "Posted by:"
+msgstr ""
+
+#: template-parts/content-discussion-topic.php:13
+msgid "Latest reply by:"
+msgstr ""
+
+#: template-parts/content-featured.php:77 template-parts/content.php:84
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/headers/header-centered.php:17
+#: template-parts/headers/header-standard.php:25
+msgid "Menu"
+msgstr ""
